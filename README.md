@@ -1,4 +1,12 @@
-# SimpleWhoisGeo
+# SimpleWhoisGeo (archived)
+
+> **Archived 2026-11-18.** Replaced by the `ip_info` tool in
+> [online-presence](https://github.com/baldwinsung/online-presence): the same
+> holder, country and abuse/NOC/tech contacts, from RDAP, for up to 20 IPs at
+> once, as an MCP tool or from the command line:
+> `onlinepresence 8.8.8.8 1.1.1.1`
+> To remove the app:
+> `curl -fsSLO https://raw.githubusercontent.com/baldwinsung/homebrew-tap/main/uninstall-menubar-apps.sh && bash uninstall-menubar-apps.sh whois`
 
 A macOS menu bar app for bulk WHOIS lookups on IP addresses.
 
