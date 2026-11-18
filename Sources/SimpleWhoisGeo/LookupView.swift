@@ -105,7 +105,7 @@ struct LookupView: View {
 
             // Footer — always visible
             HStack {
-                Link("Help", destination: URL(string: "https://github.com/baldwinsung/SimpleWhoisGeo")!)
+                Link("Help", destination: URL(string: "https://github.com/baldwinsung/whois-menubar")!)
                     .font(.caption)
                 Spacer()
                 Button("Quit") {
